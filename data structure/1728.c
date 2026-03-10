@@ -16,7 +16,7 @@ void printNode(struct Node* head) {
     while (p != NULL) {
         printf(" %d", p->x);
         p = p->next;
-    }
+    } 
     //printf("\n"); 
 }
 
