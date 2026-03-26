@@ -9,6 +9,7 @@
         "type_traits": "c",
         "typeinfo": "c",
         "cstdint": "c",
-        "string.h": "c"
+        "string.h": "c",
+        "stdio.h": "c"
     }
 }
