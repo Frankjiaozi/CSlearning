@@ -10,6 +10,8 @@
         "typeinfo": "c",
         "cstdint": "c",
         "string.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "1850.C": "cpp",
+        "cctype": "cpp"
     }
 }
